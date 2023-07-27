@@ -1,5 +1,7 @@
 # Habit Tracker
 
+a habit tracker app, where we can define habits and track them
+
 Features:-
 
 - A view to display 7 days of each habit
